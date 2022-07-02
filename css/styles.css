@@ -5,12 +5,13 @@ h1{margin-top:0;
    font-family: 'Splash', cursive;
    font-size: 50px;}
 
-.p{}
+.p{font-family: 'Raleway', sans-serif;
+   font-size: 25px;}
 
 .pro{text-decoration: underline;}
 
 .top-container{background-color:#F5F0BB;
-padding-top:  65px;}
+padding-top:  43px;}
 
 .middle-container{background-color: red;
                   height: 200px;
