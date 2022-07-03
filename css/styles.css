@@ -13,13 +13,9 @@ h1{margin-top:0;
 .top-container{background-color:#F5F0BB;
 padding-top:  43px;}
 
-.middle-container{background-color: red;
-                  height: 200px;
-                  width: 200px; }
+.middle-container{}
 
-.bottom-container{background-color: blue;
-                  height: 200px;
-                  width: 200px; }
+.bottom-container{}
 .c-p{position: absolute;}
 
 .c-t{position:relative;
