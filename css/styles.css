@@ -5,12 +5,16 @@ text-align: center;}
 h1{
 margin-top:0;
 font-family: 'Splash', cursive;
-font-size: 50px;
+font-size: 5.62rem;
+position: relative;
+top: 40px;
+color: #cc9425bd;
 }
 
 .p1{
 font-family: 'Raleway', sans-serif;
-font-size: 25px;
+font-size: 1.875rem;
+color: #cc9425bd;
 }
 
 .pro{
@@ -19,9 +23,20 @@ text-decoration: underline;
 
 .top-container{
 background-color:#FFBC80;
-padding-top:  43px;
+
 }
 
+.h-c{
+color: rgb(155, 61, 11);
+}
+
+.h-c2{
+color:rgb(0, 67, 67);
+}
+
+.h-c3{
+color: rgba(66, 66, 176, 0.775);
+}
 
 .bottom-container{
 background-color: aqua;
@@ -33,9 +48,14 @@ background-color: aqua;
 .c-t{
    position:relative;
 left: 200px;
-padding-top: 100px;
-
+padding-top: 41px;
 }
+
+.mountain{
+position: relative;
+top: 4px;
+}
+
 .profile{
 background-color: #EA5C2B;
 padding-bottom: 15px;
@@ -51,6 +71,7 @@ background-color: black;
 .p2{
 font-family: 'Raleway', sans-serif;
 font-size: 22px;
+font-weight: normal;
 }
 
 
@@ -65,10 +86,12 @@ margin: 50px 0;
 
 .skills{
 background-color:#5362eab3 ;
+
 }
 
 .h3{
 font-family: 'Gentium Book Plus', serif;
+
 }
 
 .p3{
@@ -80,19 +103,50 @@ font-size: 22px;
 .contact-me{
 background-color: aqua;
 }
+
 .gmail{
 width: 100px;
-
 }
+
 .insta{
 width: 100px;
-
 }
+
 .youtube{
 width: 100px;
-
 }
+
 .tele{
 width: 100px;
+}
 
+.skill-row{
+width: 50%;
+margin: auto;
+line-height: 2;
+}
+
+.skill-boxing{
+margin-bottom: 0;
+}
+
+.arrow{
+width: 45%;
+}
+   
+.left{
+text-align: left;
+}
+
+.t{
+margin-bottom: 0;
+}
+
+.table{
+margin: auto;
+}
+
+.td{
+font-family: 'Lemonada', cursive;
+color: #399aa1;
 }
